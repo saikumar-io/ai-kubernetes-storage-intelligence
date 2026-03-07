@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+psutil
+schedule
+matplotlib
+kubernetes
+streamlit-autorefresh
+pymongo
+redis
